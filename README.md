@@ -1,2 +1,2 @@
 # Minecraft-Recipes-Etc
-Kube.js Stuff
+Kube.js Recipes for SNR S2 Minecraft Server
